@@ -1,0 +1,65 @@
+Definir as seguintes características da sua linguagem:
+
+ - função principal, se existir (main ou algo do tipo)
+
+ - operadores aritméticos, relacionais e lógicos
+
+ - declaração de variável
+tipo assim <tipo> <nome_variavel>
+
+ - atribuição de valor à variável
+receba
+
+ - estrutura(s) de decisão
+
+ - estrutura(s) de repetição
+
+ - declaração e uso de funções
+
+**linguagem sera tipada
+
+*nome da linguagem*
+
+Estrutura de repetição:
+
+repete <condição> vai!
+	<código>
+vlw, flw
+
+Estrutura condicional:
+
+Sera <condição>?
+	<código>
+A não ser que:
+	<código>
+Então já era:
+	<código>
+vlw, flw
+
+Funções:
+
+Devolve <tipo> <nome_função> @parametro1, @parametroN:
+	<código>
+vlw, flw
+
+Atribuição de valor a variável:
+
+operadores aritméticos, relacionais e lógicos: 
+igual
+soma ai = soma ao valor original
+tira ai = subtrai do valor original
+maior igual
+menor igual
+maior
+menor 
+nao somos iguais diferente de 
+
+
+variavel= tipo assim
+while = bater na mesma tela <valor_inicial> ate <valor_final>
+vlw flw = return 0
+eh meme =  ! / false
+eh de fe = true
+quebrada = float
+um monte de coisa = lista
+receba = atribuicao de variaveis
